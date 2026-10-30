@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fake Roll Generator</title>
+  <link rel="stylesheet" href="/css/global.css">
+</head>
+<body>
+<div style="max-width: 720px; margin: 0 auto 20px auto; text-align: right;">
+  <a href="/" style="color: #ff4444; text-decoration: none; font-weight: bold;">Home</a>
+</div>
+<div class="container">
+  <h2>Fake Roll Generator</h2>
+
+  <label>Type</label>
+  <div class="row">
+    <input id="rollType" type="text" placeholder="Enter type...">
+    <div id="typeCustomSelect" class="custom-select" data-target="type">
+      <div class="select-trigger">-- Preset --</div>
+      <div class="select-dropdown">
+        <input type="text" placeholder="Search types..." class="dropdown-search">
+        <div class="options-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <label>Color</label>
+  <div class="row">
+    <input id="colorPicker" type="color" value="#ffffff">
+    <input id="color" type="text" value="#ffffff" style="max-width: 140px;">
+    <div id="colorCustomSelect" class="custom-select" data-target="color">
+      <div class="select-trigger">-- Preset --</div>
+      <div class="select-dropdown">
+        <input type="text" placeholder="Search colors..." class="dropdown-search">
+        <div class="options-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <label>Name</label>
+  <div class="row">
+    <input id="name" type="text" placeholder="Enter name...">
+    <div id="nameCustomSelect" class="custom-select" data-target="name">
+      <div class="select-trigger">-- Preset --</div>
+      <div class="select-dropdown">
+        <input type="text" placeholder="Search names..." class="dropdown-search">
+        <div class="options-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <label>Number</label>
+  <div class="inline-group" style="display: flex; gap: 12px; align-items: center; margin-top: 5px;">
+    <input id="rollNumber" type="number" min="1" max="100" value="50" style="width: 100px;">
+    <button id="randomButton" type="button" style="margin: 0;">Random</button>
+  </div>
+
+  <label style="margin-top: 15px;">
+    <input type="checkbox" id="hasBonus"> Add bonus?
+  </label>
+
+  <div id="bonusPanel" style="display: none; margin-top: 10px;">
+    <label>Bonus Value</label>
+    <input id="bonusValue" type="number" min="-100" max="100" value="5">
+  </div>
+
+  <button onclick="generate()" style="margin-top: 20px;">Generate</button>
+  <button onclick="copy()">Copy</button>
+  <textarea id="output" readonly placeholder="Output will appear here..."></textarea>
+</div>
+
+<script>
+  window.presets = <%- JSON.stringify(presets) %>;
+</script>
+<script src="/js/fake-roll.js"></script>
+</body>
+</html>

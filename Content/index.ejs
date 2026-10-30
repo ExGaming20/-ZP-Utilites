@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ZP Utilities</title>
+  <link rel="stylesheet" href="/css/global.css">
+</head>
+<body>
+<div class="container" style="max-width: 1200px;">
+  <header>
+    <h1>ZP UTILITIES</h1>
+    <div class="tagline">Secure · Contain · Create</div>
+  </header>
+
+  <div class="utilities-grid">
+    <% utilities.forEach(util => { %>
+      <div class="card">
+        <h2><%= util.name %></h2>
+        <p><%= util.description %></p>
+        <a href="<%= util.link %>" class="btn">Launch</a>
+      </div>
+    <% }); %>
+  </div>
+
+  <footer>
+    <p>ZP Command Console available | Server status: <span id="status">● Online</span></p>
+    <p>Need help? Type <kbd>help</kbd> in the command console.</p>
+  </footer>
+</div>
+</body>
+</html>

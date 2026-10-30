@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SCP ID Generator · Searchable Dropdowns</title>
+  <link rel="stylesheet" href="/css/global.css">
+</head>
+<body>
+<div style="max-width: 720px; margin: 0 auto 20px auto; text-align: right;">
+  <a href="/" style="color: #ff4444; text-decoration: none; font-weight: bold;">Home</a>
+</div>
+<div class="container">
+  <h2>SCP ID Generator</h2>
+
+  <label>Color</label>
+  <div class="row">
+    <input id="colorPicker" type="color" value="#ffffff">
+    <input id="color" type="text" value="#ffffff" style="max-width: 140px;">
+    <div id="colorCustomSelect" class="custom-select" data-target="color">
+      <div class="select-trigger">-- Preset --</div>
+      <div class="select-dropdown">
+        <input type="text" placeholder="Search colors..." class="dropdown-search">
+        <div class="options-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <label>Name</label>
+  <div class="row">
+    <input id="name" type="text" placeholder="Enter name..." style="flex: 1; max-width: 380px;">
+    <div id="nameCustomSelect" class="custom-select" data-target="name">
+      <div class="select-trigger">-- Preset --</div>
+      <div class="select-dropdown">
+        <input type="text" placeholder="Search names..." class="dropdown-search">
+        <div class="options-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <label>Role</label>
+  <div class="row">
+    <input id="role" type="text" placeholder="Enter role..." style="flex: 1; max-width: 380px;">
+    <div id="roleCustomSelect" class="custom-select" data-target="role">
+      <div class="select-trigger">-- Preset --</div>
+      <div class="select-dropdown">
+        <input type="text" placeholder="Search roles..." class="dropdown-search">
+        <div class="options-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <button onclick="generate()">Generate ID</button>
+  <button onclick="copy()">Copy</button>
+  <textarea id="output" readonly placeholder="Output will appear here..."></textarea>
+</div>
+
+<script>
+  window.presets = <%- JSON.stringify(presets) %>;
+</script>
+<script src="/js/generator.js"></script>
+</body>
+</html>

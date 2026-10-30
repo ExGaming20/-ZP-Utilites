@@ -1,0 +1,30 @@
+[
+  {
+    "route": "/",
+    "view": "index",
+    "dataSource": "utilities",
+    "dataFile": "utilities.json",
+    "description": "Homepage with utility cards"
+  },
+  {
+    "route": "/ID-Generator.html",
+    "view": "ID-Generator",
+    "dataSource": "presets",
+    "dataFile": "presets.json",
+    "description": "SCP ID Generator"
+  },
+  {
+    "route": "/Fake-Action-Generator.html",
+    "view": "Fake-Action-Generator",
+    "dataSource": "presets",
+    "dataFile": "presets.json",
+    "description": "Fake Action Generator"
+  },
+  {
+    "route": "/Fake-Roll-Generator.html",
+    "view": "Fake-Roll-Generator",
+    "dataSource": "presets",
+    "dataFile": "presets.json",
+    "description": "Fake Roll Generator"
+  }
+]

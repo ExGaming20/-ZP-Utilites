@@ -1,0 +1,169 @@
+[2026-06-04T20:10:09.080Z] Starting server...
+[2026-06-04T20:10:09.082Z] Content directory: C:\Users\Uriel\Music\[ZP] ID Generator\Content
+[2026-06-04T20:10:09.082Z] Log file: C:\Users\Uriel\Music\[ZP] ID Generator\Logs\server.log
+[2026-06-04T20:10:09.085Z] Server running on http://localhost:8080
+[2026-06-04T20:10:09.085Z] Serving content from: C:\Users\Uriel\Music\[ZP] ID Generator\Content
+[2026-06-04T20:31:12.906Z] Starting server...
+[2026-06-04T20:31:12.907Z] Content directory: C:\Users\Uriel\Music\[ZP] ID Generator\Content
+[2026-06-04T20:31:12.907Z] Log file: C:\Users\Uriel\Music\[ZP] ID Generator\Logs\server.log
+[2026-06-04T20:31:12.911Z] Server running on http://localhost:8080
+[2026-06-04T20:31:12.911Z] Serving content from: C:\Users\Uriel\Music\[ZP] ID Generator\Content
+[2026-06-04T20:45:43.981Z] Starting server...
+[2026-06-04T20:45:43.983Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T20:45:43.983Z] Log file: C:\Users\Uriel\Music\[ZP] Utilites\Logs\server.log
+[2026-06-04T20:45:43.986Z] Server running on http://localhost:8080
+[2026-06-04T20:45:43.986Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T20:48:14.402Z] Error loading utilities.json: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\view.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\application.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\express.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\index.js
+- C:\Users\Uriel\Music\[ZP] Utilites\Server\server.js
+[2026-06-04T20:48:15.354Z] Error loading utilities.json: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\view.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\application.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\express.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\index.js
+- C:\Users\Uriel\Music\[ZP] Utilites\Server\server.js
+[2026-06-04T20:48:15.895Z] Error loading utilities.json: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\view.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\application.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\express.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\index.js
+- C:\Users\Uriel\Music\[ZP] Utilites\Server\server.js
+[2026-06-04T20:48:16.083Z] Error loading utilities.json: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\view.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\application.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\express.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\index.js
+- C:\Users\Uriel\Music\[ZP] Utilites\Server\server.js
+[2026-06-04T20:48:16.299Z] Error loading utilities.json: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\view.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\application.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\express.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\index.js
+- C:\Users\Uriel\Music\[ZP] Utilites\Server\server.js
+[2026-06-04T20:48:16.731Z] Error loading utilities.json: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\view.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\application.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\lib\express.js
+- C:\Users\Uriel\Music\[ZP] Utilites\node_modules\express\index.js
+- C:\Users\Uriel\Music\[ZP] Utilites\Server\server.js
+[2026-06-04T21:01:23.474Z] Starting server...
+[2026-06-04T21:01:23.475Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:01:23.478Z] Server running on http://localhost:8080
+[2026-06-04T21:01:23.478Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:04:35.440Z] Starting server...
+[2026-06-04T21:04:35.442Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:04:35.445Z] Server running on http://localhost:8080
+[2026-06-04T21:04:35.445Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:14:12.832Z] Starting server...
+[2026-06-04T21:14:12.833Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:14:12.836Z] Server running on http://localhost:8080
+[2026-06-04T21:14:12.837Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:15:51.523Z] Starting server...
+[2026-06-04T21:15:51.524Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:15:51.527Z] Server running on http://localhost:8080
+[2026-06-04T21:15:51.528Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:16:55.643Z] Starting server...
+[2026-06-04T21:16:55.644Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:16:55.647Z] Server running on http://localhost:8080
+[2026-06-04T21:16:55.648Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:44:15.519Z] Starting server...
+[2026-06-04T21:44:15.520Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-04T21:44:15.523Z] Server running on http://localhost:8080
+[2026-06-04T21:44:15.524Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-05T01:02:51.092Z] Starting server...
+[2026-06-05T01:02:51.094Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-05T01:02:51.097Z] Server running on http://localhost:8080
+[2026-06-05T01:02:51.097Z] Serving content from: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-05T01:06:47.615Z] Starting server...
+[2026-06-05T01:06:47.616Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-05T01:06:47.619Z] Server running on http://localhost:8080
+[2026-06-05T20:39:34.078Z] Starting server...
+[2026-06-05T20:39:34.079Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-05T20:39:34.083Z] Server running on http://localhost:8080
+[2026-06-05T23:14:20.641Z] Error loading presets.json: Unexpected token ']', ..."cal" },
+  ]
+}" is not valid JSON
+[2026-06-05T23:14:34.312Z] Error loading presets.json: Unexpected token ']', ..."cal" },
+  ]
+}" is not valid JSON
+[2026-06-06T20:33:06.533Z] Starting server...
+[2026-06-06T20:33:06.535Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-06T20:33:06.536Z] Loaded 4 page definitions from pages.json
+[2026-06-06T20:33:06.537Z] Registered route: / -> index
+[2026-06-06T20:33:06.537Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-06-06T20:33:06.537Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-06-06T20:33:06.538Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-06-06T20:33:06.540Z] Server running on http://localhost:8080
+[2026-06-06T21:39:08.342Z] Starting server...
+[2026-06-06T21:39:08.344Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-06T21:39:08.345Z] Loaded 4 page definitions from pages.json
+[2026-06-06T21:39:08.346Z] Registered route: / -> index
+[2026-06-06T21:39:08.346Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-06-06T21:39:08.347Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-06-06T21:39:08.347Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-06-06T21:39:08.349Z] Server running on http://localhost:8080
+[2026-06-07T21:11:35.779Z] Starting server...
+[2026-06-07T21:11:35.781Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-07T21:11:35.782Z] Loaded 4 page definitions from pages.json
+[2026-06-07T21:11:35.782Z] Registered route: / -> index
+[2026-06-07T21:11:35.783Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-06-07T21:11:35.783Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-06-07T21:11:35.783Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-06-07T21:11:35.785Z] Server running on http://localhost:8080
+[2026-06-09T00:53:40.777Z] Starting server...
+[2026-06-09T00:53:40.779Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-09T00:53:40.782Z] Loaded 4 page definitions from pages.json
+[2026-06-09T00:53:40.782Z] Registered route: / -> index
+[2026-06-09T00:53:40.782Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-06-09T00:53:40.783Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-06-09T00:53:40.783Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-06-09T00:53:40.785Z] Server running on http://localhost:8080
+[2026-06-14T19:34:55.614Z] Starting server...
+[2026-06-14T19:34:55.616Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-06-14T19:34:55.618Z] Loaded 4 page definitions from pages.json
+[2026-06-14T19:34:55.618Z] Registered route: / -> index
+[2026-06-14T19:34:55.619Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-06-14T19:34:55.619Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-06-14T19:34:55.619Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-06-14T19:34:55.622Z] Server running on http://localhost:8080
+[2026-09-15T00:53:14.192Z] Starting server...
+[2026-09-15T00:53:14.199Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-09-15T00:53:14.202Z] Loaded 4 page definitions from pages.json
+[2026-09-15T00:53:14.202Z] Registered route: / -> index
+[2026-09-15T00:53:14.203Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-09-15T00:53:14.203Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-09-15T00:53:14.203Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-09-15T00:53:14.207Z] Server running on http://localhost:8080
+[2026-10-16T01:55:16.519Z] Starting server...
+[2026-10-16T01:55:16.522Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-10-16T01:55:16.524Z] Loaded 4 page definitions from pages.json
+[2026-10-16T01:55:16.524Z] Registered route: / -> index
+[2026-10-16T01:55:16.525Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-10-16T01:55:16.525Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-10-16T01:55:16.526Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-10-16T01:55:16.529Z] Server running on http://localhost:8080
+[2026-10-18T10:13:01.176Z] Starting server...
+[2026-10-18T10:13:01.178Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-10-18T10:13:01.180Z] Loaded 4 page definitions from pages.json
+[2026-10-18T10:13:01.180Z] Registered route: / -> index
+[2026-10-18T10:13:01.181Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-10-18T10:13:01.181Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-10-18T10:13:01.181Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-10-18T10:13:01.183Z] Server running on http://localhost:8080
+[2026-10-30T02:51:21.720Z] Starting server...
+[2026-10-30T02:51:21.721Z] Content directory: C:\Users\Uriel\Music\[ZP] Utilites\Content
+[2026-10-30T02:51:21.723Z] Loaded 4 page definitions from pages.json
+[2026-10-30T02:51:21.723Z] Registered route: / -> index
+[2026-10-30T02:51:21.724Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-10-30T02:51:21.724Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-10-30T02:51:21.724Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-10-30T02:51:21.726Z] Server running on http://localhost:8080

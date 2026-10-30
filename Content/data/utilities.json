@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SCP ID Generator",
+    "description": "Generate identification cards. Outputs ready-to-use text for in-game use.",
+    "link": "/ID-Generator.html"
+  },
+  {
+    "name": "Fake Action Generator",
+    "description": "Generate /rp or /me actions. Outputs ready-to-use text for in-game use.",
+    "link": "/Fake-Action-Generator.html"
+  },
+  {
+    "name": "Fake Roll Generator",
+    "description": "Generate different rolls. Outputs ready-to-use text for in-game use.",
+    "link": "/Fake-Roll-Generator.html"
+  }
+]
