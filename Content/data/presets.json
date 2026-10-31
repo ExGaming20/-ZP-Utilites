@@ -31,7 +31,7 @@
     {"value": "#ee4444", "label": "Medical Department"},
     {"value": "#ee7711", "label": "Nu-7 'Hammer Down'"},
     {"value": "#550a36", "label": "XI-8"},
-	{"value": "#ffffff", "label": "TIU"},
+	{"value": "#f65f00", "label": "TIU"},
 	{"value": "#370707", "label": "Disciples"}
   ],
   "namePresets": [
@@ -54,7 +54,7 @@
     {"value": "CPL Arlo Vohlm", "label": "CPL Arlo Vohlm"},
     {"value": "CPL Matthew Reno", "label": "CPL Matthew Reno"},
     {"value": "D-#### Ex", "label": "D-Class Ex"},
-	{"value": "D-6988 HB", "label": "D-Class HB"},
+	{"value": "D-6988 \"HB\"", "label": "D-Class HB"},
     {"value": "D-#### kre", "label": "D-Class kre"},
     {"value": "D-#### Micro", "label": "D-Class Micro"},
     {"value": "JR Kenneth Biggs [R]", "label": "JR Kenneth Biggs [R]"},

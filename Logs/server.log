@@ -167,3 +167,27 @@ Require stack:
 [2026-10-30T02:51:21.724Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
 [2026-10-30T02:51:21.724Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
 [2026-10-30T02:51:21.726Z] Server running on http://localhost:8080
+[2026-10-31T00:19:29.501Z] Starting server...
+[2026-10-31T00:19:29.507Z] Content directory: C:\Users\Uriel\Music\ZPUtilites\Content
+[2026-10-31T00:19:29.509Z] Loaded 4 page definitions from pages.json
+[2026-10-31T00:19:29.509Z] Registered route: / -> index
+[2026-10-31T00:19:29.509Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-10-31T00:19:29.510Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-10-31T00:19:29.510Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-10-31T00:19:29.514Z] Server running on http://localhost:8080
+[2026-10-31T00:51:39.647Z] Starting server...
+[2026-10-31T00:51:39.649Z] Content directory: C:\Users\Uriel\Music\ZPUtilites\Content
+[2026-10-31T00:51:39.650Z] Loaded 4 page definitions from pages.json
+[2026-10-31T00:51:39.650Z] Registered route: / -> index
+[2026-10-31T00:51:39.651Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-10-31T00:51:39.651Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-10-31T00:51:39.651Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-10-31T00:51:39.654Z] Server running on http://localhost:8080
+[2026-10-31T01:04:29.056Z] Starting server...
+[2026-10-31T01:04:29.057Z] Content directory: C:\Users\Uriel\Music\ZPUtilites\Content
+[2026-10-31T01:04:29.059Z] Loaded 4 page definitions from pages.json
+[2026-10-31T01:04:29.060Z] Registered route: / -> index
+[2026-10-31T01:04:29.060Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-10-31T01:04:29.061Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-10-31T01:04:29.061Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-10-31T01:04:29.064Z] Server running on http://localhost:8080
