@@ -32,7 +32,7 @@ function generate() {
 
   let output = "";
   if (actionType === "global") {
-    output = `/it {#888888 [}{#ff0000 RP}{#888888 ]} {${color} ${name}}: ${action}`;
+    output = `/it {#999999 [}{#ff0000 RP}{#999999 ]} {${color} ${name}}: ${action}`;
   } else {
     output = `/it {${color} ${name} ${action}}`;
   }
