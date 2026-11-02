@@ -88,6 +88,7 @@
 	{"value": "SMO 'Survivor'", "label": "SMO 'Survivor'"},
 	{"value": "SR Nigel Williams Evans", "label": "SR Nigel Williams Evans"},
 	{"value": "MSGT 'D-6393 Mute'", "label": "MSGT 'D-6393 Mute'"},
+	{"value": "Foreman Aya Minnova", "label": "Foreman Aya Minnova"},
 	{"value": "PARAGON", "label": "PARAGON"}
   ],
   "rolePresets": [
@@ -229,7 +230,10 @@
   {"value": "XI-8: Captain", "label": "XI-8: Captain"},
   {"value": "XI-8: Operative", "label": "XI-8: Operative"},
   {"value": "XI-8: Service Uniform", "label": "XI-8: Service Uniform"},
-  {"value": "XI-8: Squad Leader", "label": "XI-8: Squad Leader"}
+  {"value": "XI-8: Squad Leader", "label": "XI-8: Squad Leader"},
+  {"value": "SCP-488-JP-A", "label": "SCP-488-JP-A"},
+  {"value": "XO 'Atropos'", "label": "XO 'Atropos'"},
+  {"value": "MSGT R.L. Pearl", "label": "MSGT R.L. Pearl"}
 ],
   "typePresets": [
     {"value": "", "label": "-- Preset --"},

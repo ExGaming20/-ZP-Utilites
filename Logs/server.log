@@ -1,0 +1,8 @@
+[2026-11-02T00:31:11.108Z] Starting server...
+[2026-11-02T00:31:11.110Z] Content directory: C:\Users\Uriel\Music\ZPUtilites\Content
+[2026-11-02T00:31:11.112Z] Loaded 4 page definitions from pages.json
+[2026-11-02T00:31:11.112Z] Registered route: / -> index
+[2026-11-02T00:31:11.113Z] Registered route: /ID-Generator.html -> ID-Generator
+[2026-11-02T00:31:11.113Z] Registered route: /Fake-Action-Generator.html -> Fake-Action-Generator
+[2026-11-02T00:31:11.113Z] Registered route: /Fake-Roll-Generator.html -> Fake-Roll-Generator
+[2026-11-02T00:31:11.117Z] Server running on http://localhost:8080
